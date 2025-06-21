@@ -8,16 +8,16 @@ Real-time classification-ready architecture
 High accuracy achieved on a diverse dataset
 Modular code for training, evaluation, and prediction.
 # 🗂️ Technologies Used:
-python 
-numpy
-seabiorn
-skilt-learn
-openCV
-tensorflow
-keras
-matplotlib 
-streamlit- web deployment
-VS code - Editor
+python.
+numpy.
+seabiorn.
+skilt-learn.
+openCV.
+tensorflow.
+keras.
+matplotlib .
+streamlit- web deployment.
+VS code - Editor.
 # 📁 Dataset:
 Over 2000 labeled leaf images collected from online sources and manually, preprocessed to 128×128 grayscale format.
 # 📊 Performance:
